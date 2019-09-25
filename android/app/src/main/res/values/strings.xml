@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NeoStencil</string>
+    <string name="title">NeoStencil</string>
+    <string name="BASE_URL">https://neostencil.com/api/v1/</string>
+    <string name="SITE_URL">https://neostencil.com/</string>
+    <string name="open_document">Open Document</string>
+    <string name="open_assignment">Open Assignment</string>
+    <string name="facebook_app_id">1604111156505555</string>
+    <string name="fb_login_protocol_scheme">fb1604111156505555</string>
+    <string name="title_activity_assignment_view">AssignmentViewActivity</string>
+    <string name="upload_assignment">Upload Assignment</string>
+
+
+</resources>

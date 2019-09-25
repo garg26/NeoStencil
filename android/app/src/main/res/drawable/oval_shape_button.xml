@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <gradient
+        android:startColor="#a360ff"
+        android:endColor="#7a9eff">
+
+    </gradient>
+    <corners android:radius="32dp"/> <!-- increasing the value, increases the rounding. And as  TTransmit said, to make it like a capsule make the radius half of your button height -->
+
+</shape>

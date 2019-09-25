@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.neostencilmobileapp",
+    "sha256_cert_fingerprints":
+    ["9F:65:FA:23:A4:4D:A9:48:70:CD:91:8E:05:E7:94:92:71:36:46:AB:5B:BA:45:ED:85:1C:B3:20:01:8E:ED:CE"]
+  }
+}]

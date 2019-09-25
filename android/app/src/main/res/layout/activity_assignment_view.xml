@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".activity.AssignmentViewActivity"
+    >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:id="@+id/rl_assignment"
+        android:layout_height="match_parent">
+
+        <ProgressBar
+            android:visibility="gone"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+
+            android:id="@+id/progress_bar_assignment"/>
+
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_above="@+id/btn_upload_assignment"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:padding="8dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/tv_assignment_html"/>
+
+
+
+
+        </ScrollView>
+
+
+
+        <Button
+            android:id="@+id/btn_upload_assignment"
+            android:layout_alignParentBottom="true"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/upload_assignment"
+            android:textAllCaps="false"
+            android:textColor="@color/white"
+
+            android:elevation="2dp"
+            android:background="@drawable/orange_gradient">
+
+        </Button>
+
+    </RelativeLayout>
+
+
+
+
+
+
+
+</android.support.constraint.ConstraintLayout>

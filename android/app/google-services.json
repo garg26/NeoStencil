@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "961546061388",
+    "firebase_url": "https://ns-mobile-36204.firebaseio.com",
+    "project_id": "ns-mobile-36204",
+    "storage_bucket": "ns-mobile-36204.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961546061388:android:64e471dd91d59986",
+        "android_client_info": {
+          "package_name": "com.neostencilmobileapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "961546061388-eb5g9k28ku0kdkuruukdfqst777arci4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.neostencilmobileapp",
+            "certificate_hash": "b3d4717c27950a09eb9d081aaa5edcbf0852649a"
+          }
+        },
+        {
+          "client_id": "961546061388-m2u9e72dvdqqtt2f2m6n44kujbs74ld2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWfZM_A8qj8qDt-diJWWQ-AWD02oQGYrY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "961546061388-m2u9e72dvdqqtt2f2m6n44kujbs74ld2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
